@@ -3,6 +3,17 @@
 An end-to-end Business Intelligence project analyzing European housing markets using Python, SQL, and Tableau.
 
 ---
+# 📸 Dashboard Preview
+
+https://github.com/Selaseyjr/european-real-estate-investment-intelligence/blob/main/real-estate-dashboard.png.png
+
+---
+
+# 🔗 Live Dashboard
+
+https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard
+
+---
 
 ## 📌 Project Overview
 
@@ -245,20 +256,6 @@ This project demonstrates how data analytics can support:
 - Economic monitoring
 - Housing affordability evaluation
 - Forecast-based strategic planning
-
----
-
-# 📸 Dashboard Preview
-
-https://github.com/Selaseyjr/european-real-estate-investment-intelligence/blob/main/real-estate-dashboard.png.png
-
----
-
-# 🔗 Live Dashboard
-
-```text
-https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard
-```
 
 ---
 
