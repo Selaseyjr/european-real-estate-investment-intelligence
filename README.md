@@ -1,4 +1,4 @@
-# 📊 Where Should You Invest in European Property? (2025 Outlook)
+# 📊 Where Should You Invest in European Property?
 
 An end-to-end Business Intelligence project analyzing European housing markets using Python, SQL, and Tableau.
 
