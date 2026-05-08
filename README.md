@@ -17,7 +17,7 @@ https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstate
 
 ## 📌 Project Overview
 
-This project analyzes housing market trends across major European countries to identify the most attractive real estate investment opportunities for 2025 using a data-driven approach.
+This project analyzes housing market trends across major European countries to identify the most attractive real estate investment opportunities using a data-driven approach.
 
 The dashboard combines:
 
