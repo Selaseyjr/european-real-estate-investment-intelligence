@@ -5,7 +5,7 @@ An end-to-end Business Intelligence project analyzing European housing markets u
 ---
 # 📸 Dashboard Image Preview
 
-![Real Estate Investment Dashboard Image] (real-estate-dashboard.png.png)
+![Real Estate Investment Dashboard Image](real-estate-dashboard.png)
 
 ---
 
