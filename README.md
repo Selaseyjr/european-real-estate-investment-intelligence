@@ -3,15 +3,15 @@
 An end-to-end Business Intelligence project analyzing European housing markets using Python, SQL, and Tableau.
 
 ---
-# 📸 Dashboard Preview
+# 📸 Dashboard Image Preview
 
-https://github.com/Selaseyjr/european-real-estate-investment-intelligence/blob/main/real-estate-dashboard.png.png
+![Real Estate Investment Dashboard Image] (real-estate-dashboard.png.png)
 
 ---
 
 # 🔗 Live Dashboard
 
-https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard
+[Real Estate Investment Live Dashboard](https://public.tableau.com/app/profile/selasey.dick.junior.gbeddy/viz/RealEstateInvestmentAnalysis-EU/InvesmentIntelligence-EuropeanHousingDashboard)
 
 ---
 
